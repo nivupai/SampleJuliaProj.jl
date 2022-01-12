@@ -6,7 +6,7 @@ CurrentModule = SampleJuliaProj
 ```
 # What it is about
 Here goes the main bla
-## A susection
+## A subsection
 Here we add finer things
 
 # SampleJuliaProj
