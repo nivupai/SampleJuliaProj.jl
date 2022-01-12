@@ -1,10 +1,18 @@
 ```@meta
 CurrentModule = SampleJuliaProj
+
+# What it is about
+
 ```
 
 # SampleJuliaProj
 
-Documentation for [SampleJuliaProj](https://github.com/nivupai/SampleJuliaProj.jl).
+This is Documentation for [SampleJuliaProj](https://github.com/nivupai/SampleJuliaProj.jl).
+
+## Some experiments
+```@docs
+func(x)
+```
 
 ```@index
 ```

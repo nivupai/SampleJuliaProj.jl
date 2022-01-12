@@ -7,7 +7,7 @@ makedocs(;
     modules=[SampleJuliaProj],
     authors="Nivedita Rethnakar et al.",
     repo="https://github.com/nivupai/SampleJuliaProj.jl/blob/{commit}{path}#{line}",
-    sitename="SampleJuliaProj.jl",
+    sitename=" Documentation for SampleJuliaProj.jl",
     format=Documenter.HTML(;
         prettyurls=get(ENV, "CI", "false") == "true",
         canonical="https://nivupai.github.io/SampleJuliaProj.jl",
