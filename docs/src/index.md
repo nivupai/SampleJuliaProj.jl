@@ -1,9 +1,13 @@
 ```@meta
 CurrentModule = SampleJuliaProj
 
-# What it is about
+
 
 ```
+# What it is about
+Here goes the main bla
+## A susection
+Here we add finer things
 
 # SampleJuliaProj
 
